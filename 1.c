@@ -161,6 +161,7 @@ int main(int argc,char* argv[])
 		printf("error\n ");
 		return -1;
 	}
+	printf("hello,git\n");
 #endif 
 	return 0;
 } 
